@@ -6,7 +6,7 @@
    数据源由 [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) --> [ixff/v2ray-rules-dat](https://github.com/ixff/v2ray-rules-dat)，其唯一改变是完善了[category-pt](https://github.com/ixff/domain-list-community/blob/master/data/category-pt)。
 3. 使用方法：
    
-   `geosite.db`下载地址：[GitHub Releases](https://github.com/soffchen/sing-geosite/releases/latest/download/geosite.db) 或者 [jsdelivr](https://cdn.jsdelivr.net/gh/soffchen/sing-geosite@release/geosite.db)
+   `geosite.db`下载地址：[GitHub Releases](https://github.com/ixff/sing-geosite/releases/latest/download/geosite.db) 或者 [jsdelivr](https://cdn.jsdelivr.net/gh/ixff/sing-geosite@release/geosite.db)
 
    添加规则让全部PT站点域名都走直连：
    ```
